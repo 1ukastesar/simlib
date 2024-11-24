@@ -33,3 +33,5 @@
 
 # SIMLIB-specific
 *.nm
+examples/
+tests/
